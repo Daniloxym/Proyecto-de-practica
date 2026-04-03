@@ -9,3 +9,7 @@ h1 {
   font-size: 24px;
   margin-bottom: 20px;
 }
+
+section {
+  padding: 20px;
+}
